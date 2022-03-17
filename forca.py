@@ -92,6 +92,7 @@ def jogar():
             print('\n'"Ops! Essa letra não tem! ", end='\n\n')
             print("Letras que você já chutou: ")
             print(letras_acertadas, end='\n\n')
+        erros += 1
 
 
         enforcou = erros == nivel
