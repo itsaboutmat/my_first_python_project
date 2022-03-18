@@ -2,7 +2,7 @@ Acender
 Afilhado
 Ardiloso
 aspero
-Assombraçao
+Assombracao
 Asterisco
 Basquete
 Caminho
@@ -12,12 +12,12 @@ Chuveiro
 Coelho
 Contexto
 Convivencia
-Coraçao
+Coracao
 Desalmado
 Eloquente
 Esfirra
 Esquerdo
-Exceçao
+Excecao
 Fugaz
 Gororoba
 Heterossexual
@@ -32,7 +32,7 @@ Pororoca
 Prognosticio
 Quarentena
 Quimera
-Refeiçao
+Refeicao
 Reportagem
 Sino
 Taciturno
