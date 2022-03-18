@@ -55,11 +55,26 @@ def jogar():
         pontos = pontos - pontos_perdidos
         rodada = rodada + 1
 
-    print("")
-    print("#####################")
-    print("#### Fim do jogo ####")
-    print("#####################")
 
+    jogar_novamente()
+
+
+def jogar_novamente():
+    print("Quer jogar novamente?")
+    print("(1) SIM  (2) Não")
+
+    play_again = int(input())
+
+    if (play_again == 1):
+        jogar()
+    else:
+        end_message()
+
+def end_message():
+    print()
+    print("#########################################")
+    print("############## Fim do jogo ##############")
+    print("#########################################", end='\n' * 3)
 
 if(__name__ == "__main__"):
     jogar()
